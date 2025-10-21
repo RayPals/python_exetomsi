@@ -1,3 +1,5 @@
+Made with ChatGPT
+
 # python_exetomsi
 Converts an .EXE Installer to .MSI
 
